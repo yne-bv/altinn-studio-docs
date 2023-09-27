@@ -53,7 +53,7 @@ Legg til seksjoner dersom de er relevante:
 
 ### Oppførsel
 
-(Hvordan komponenten oppfører seg i ulike sammenhenger.)
+(Hvordan komponenten oppfører seg i ulike sammenhenger, f.eks. på mobil vs. desktop)
 
 ### Stil
 
