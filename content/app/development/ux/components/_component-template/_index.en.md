@@ -100,8 +100,7 @@ If the component does not have a JSON schema, comment out the text and shortcode
 
 {{% notice warning %}}
 We are currently updating Altinn Studio Designer with more configuration options!
- We'll update the documentation to reflect the new changes once they are stable.
-  In the meantime, there may be more options available in beta mode.
+ The documentation is continuously updated, and there may be more settings available than what is described here, and some settings may be in beta version.
 {{% /notice %}}
 
 ### Add component
