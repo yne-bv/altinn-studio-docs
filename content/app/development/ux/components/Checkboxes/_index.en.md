@@ -82,7 +82,7 @@ Select the component to bring up the settings panel.
 
 You can create a new text by clicking on the plus sign or select an existing one by clicking on the magnifying glass. See [Adding and Editing Texts in an App](/app/development/ux/texts/#add-and-change-texts-in-an-application) for more information.
 
-![Text settings](Tekst-settings-all.png "Text settings")
+![Text settings](../Tekst-settings-all.png "Text settings")
 
 {{</content-version-container>}}
 {{<content-version-container version-label="Code">}}
@@ -132,7 +132,7 @@ To store and manipulate the data collected by the component, the component must 
 Select the field you want to link the component to from the dropdown menu.
  If there are no fields available, you must first [upload a data model](/app/development/data/data-modeling/#upload-and-display-data-model).
 
-![Data Model Settings. Screenshot](Datamodell-settings.png)
+![Data Model Settings. Screenshot](../Datamodell-settings.png)
 
 {{</content-version-container>}}
 
@@ -274,7 +274,7 @@ App/ui/layouts/{page}.json
 {{<content-version-selector classes="border-box">}}
 {{<content-version-container version-label="Altinn Studio Designer">}}
 
-![Settings for readOnly, required, layout, and preselect](innstillinger-skrivebeskyttet-required-visning-indeks.png)
+![Settings for readOnly, required, layout, and preselect](../innstillinger-skrivebeskyttet-required-visning-indeks.png)
 
 {{</content-version-container>}}
 {{<content-version-container version-label="Code">}}

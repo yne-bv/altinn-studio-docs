@@ -87,7 +87,7 @@ Velg komponenten for å få opp innstillingspanelet.
 
 Du kan opprette en ny tekst ved å klikke på pluss-tegnet eller velge en eksisterende ved å klikke på forstørrelsesglasset. Se [Legge til og endre tekster i en app](/nb/app/development/ux/texts/#legge-til-og-endre-tekster-i-en-app) for mer info.
 
-![Tekst innstillinger. Skjermbilde](Tekst-settings-all.png "Innstillinger for tekst")
+![Tekst innstillinger. Skjermbilde](../Tekst-settings-all.png "Innstillinger for tekst")
 
 {{</content-version-container>}}
 {{<content-version-container version-label="Kode">}}
@@ -137,7 +137,7 @@ Verdiene til alternativene må samsvare med datatypen for feltet.
 Velg feltet du ønsker å koble komponenten til fra nedtrekksmenyen.
  Hvis det ikke er noen felter tilgjengelig må du først [laste opp en datamodell](/nb/app/development/data/data-modeling/#laste-opp-og-vise-datamodell).
 
-![Innstillinger datamodell. Skjermbilde](Datamodell-settings.png)
+![Innstillinger datamodell. Skjermbilde](../Datamodell-settings.png)
 
 {{</content-version-container>}}
 
@@ -279,7 +279,7 @@ App/ui/layouts/{page}.json
 {{<content-version-selector classes="border-box">}}
 {{<content-version-container version-label="Altinn Studio Designer">}}
 
-![Innstillnger skrivebeskyttet, påkrevd, visning, indeks](innstillinger-skrivebeskyttet-required-visning-indeks.png)
+![Innstillnger skrivebeskyttet, påkrevd, visning, indeks](../innstillinger-skrivebeskyttet-required-visning-indeks.png)
 
 {{</content-version-container>}}
 {{<content-version-container version-label="Kode">}}
